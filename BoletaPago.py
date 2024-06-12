@@ -57,7 +57,6 @@ print("CATEGORIA:", categoria)
 print("HORAS EXTRAS:", horas_extras)
 print("TARDANZAS (minutos):", tardanzas)
 
-
 boleta_trabajador = Boleta(nombre, categoria, horas_extras, tardanzas)
 boleta_trabajador.generar_boleta_pago()
 
