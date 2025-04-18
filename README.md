@@ -4,5 +4,6 @@ Recibe los datos de un trabajador (nombre, categoría, horas extras y minutos de
 ## Características
 - Calcula el sueldo básico según la categoría del trabajador (A, B o C).
 - Calcula el pago por horas extras trabajadas.
-- Aplica descuentos por tardanzas.
+- Calcula los descuentos por tardanza.
+- Calcula el sueldo neto total.
 - Genera una boleta de pago detallada con todos los cálculos.
