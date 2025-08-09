@@ -1,4 +1,4 @@
-# Sistema de Boleta de Pago
+# Boleta de Pago
 
 Recibe los datos de un trabajador (nombre, categoría, horas extras y minutos de tardanza) y genera una boleta de pago con el cálculo del sueldo básico, pago adicional, descuentos y sueldo neto.
 
